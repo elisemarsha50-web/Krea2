@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.key
+krea-connection.json
+.env
+*.log
+test-results/
+playwright-report/
